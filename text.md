@@ -53,6 +53,6 @@ O design é aplicação conforme o seu negócio, tendo um design único.
 
 ### Back-End
 ```
-
+Depois do Desenvolvimento do seu layout para a Web, aqui no back-end, fazemos toda a infrastrutura de segurança, rotas e acessos a páginas, com chekout, para ter um traficos de dados com performance.
 
 ```
